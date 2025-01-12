@@ -50,7 +50,7 @@ model, tokenizer, max_len, le = load_model_and_dependencies()
 st.markdown("""
     <style>
         .main {
-            background-color: #f0f8ff;
+            background-color: #232A5A;
             color: #333;
             font-family: 'Helvetica', sans-serif;
         }

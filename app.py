@@ -51,7 +51,7 @@ st.markdown("""
     <style>
         .main {
             background-color: #232A5A;
-            color: #333;
+            color: #ffffff;
             font-family: 'Helvetica', sans-serif;
         }
         .stButton>button {
